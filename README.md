@@ -1,6 +1,7 @@
 <h1 align="center">RaulJDlCRUZ's profile!</h1>
-
+<!--
 [![](https://visitcount.itsvg.in/api?id=RaulJDlCRUZ&icon=0&color=0)](https://visitcount.itsvg.in)
+-->
 
 # 💫 About Me
 👩‍💻 I’m currently working as a junior full-stack developer<br><br>🎓 Graduate in Computer Engineering<br><br>🌱 I’m currently learning Big Data & Cloud Computing (Master's degree)
@@ -34,12 +35,30 @@
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaulJDlCRUZ&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=RaulJDlCRUZ&theme=gruvbox&hide_border=false)<br/>
-![Top Langs Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RaulJDlCRUZ&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/RaulJDlCRUZ/">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RaulJDlCRUZ&show_icons=true&theme=gruvbox&count_private=true&hide_border=true" alt="RaulJDlCRUZ's GitHub stats">
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/RaulJDlCRUZ/">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RaulJDlCRUZ&layout=compact&theme=gruvbox&hide_border=true" alt="RaulJDlCRUZ's Most Used Languages">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RaulJDlCRUZ&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+<!--
+
+THIS BLOCK MAY NOT WORK... COMMENTED FOR NOW...
+
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=RaulJDlCRUZ&theme=gruvbox&hide_border=false)<br/>
 
 ## 🔝 Top Contributed Repo
 ![Top Repo](https://github-contributor-stats.vercel.app/api?username=RaulJDlCRUZ&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+
+-->
