@@ -1,43 +1,45 @@
 <h1 align="center">RaulJDlCRUZ's profile!</h1>
 
-![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=RaulJDlCRUZ&show_icons=true&theme=tokyonight)
+[![](https://visitcount.itsvg.in/api?id=RaulJDlCRUZ&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## About Me
+# 💫 About Me
+👩‍💻 I’m currently working as a junior full-stack developer<br><br>🎓 Graduate in Computer Engineering<br><br>🌱 I’m currently learning Big Data & Cloud Computing (Master's degree)
 
-- My name is Raúl Jiménez de la Cruz
-- Computer Engineering Degree from University of Castilla-La Mancha
+## 🔗 Links
 
-## Abilities and Skills
+<!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ) -->
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/raulino7096) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ra%C3%BAl-jim%C3%A9nez-de-la-cruz-a715b8328/)
+<!-- [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/) -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaulJDlCRUZ&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="350"  alt="0xabdulkhalid"/>
+## 💻 Current Tech Stack (2026)
 
-### FrontEnd
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+</div>
+<br>
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,dotnet,html,spring)](https://skillicons.dev)
+> [!NOTE]
+> This doesn’t mean I don’t use other tools. Some of my favourite skills, aside from the stack, are:<br>
+> [![extra](https://skillicons.dev/icons?i=c,latex,react,ts,vite)](https://skillicons.dev)
 
-### BackEnd
+---
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,bash,c,cpp,java,mongodb,mysql,)](https://skillicons.dev)
+# 📊 GitHub Stats
 
-### Tools used
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaulJDlCRUZ&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=RaulJDlCRUZ&theme=gruvbox&hide_border=false)<br/>
+![Top Langs Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RaulJDlCRUZ&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![My Skills](https://skillicons.dev/icons?i=eclipse,git,github,kafka,latex,linux,md,matlab,maven,powershell,py,r,rabbitmq,sublime,visualstudio,vscode,)](https://skillicons.dev)
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RaulJDlCRUZ&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
-### I've worked on these OSs:
-
-[![My Skills](https://skillicons.dev/icons?i=arch,mint,windows)](https://skillicons.dev)
-
-<!--
-**RaulJDlCRUZ/RaulJDlCRUZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔝 Top Contributed Repo
+![Top Repo](https://github-contributor-stats.vercel.app/api?username=RaulJDlCRUZ&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
